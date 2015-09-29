@@ -9,5 +9,6 @@
 
         </Grid.RowDefinitions>
         <Button Grid.Column="0" Grid.Row="0" Margin="10">ok 1</Button>
+        <Label Content="изменения" HorizontalAlignment="Left" Margin="91,89,0,0" Grid.Row="1" VerticalAlignment="Top" Width="201"/>
     </Grid>
 </Window>
